@@ -63,3 +63,55 @@ self.navigationItem.rightBarButtonItem=mailbutton;
 
 
 /// -------------------///
+
+  related SND
+  
+  1.  http://policyandsafety.help.soundcloud.com/customer/portal/articles/2155833-reporting-trademark-infringement   - check details
+  
+2. http://payments.help.soundcloud.com/?b_id=10245  - Payments & Bills
+
+3. http://stackoverflow.com/questions/14848801/start-playing-soundcloud-audio-stream-in-ios-by-using-a-pre-buffer   - Start playing SoundCloud audio stream in iOS by using a pre-buffer   ------ imp  *******
+
+4. http://stackoverflow.com/questions/18245805/not-playing-sounds-from-stream-url-ing-soundcloud-api   -  Not playing sounds from stream_url ing SoundCloud API
+
+5. http://stackoverflow.com/questions/21177594/soundcloud-ios-api-playing-sound-from-link  - Soundcloud iOS API - playing sound from link
+
+6. http://stackoverflow.com/questions/15537080/playing-a-soundcloud-file-in-ios-app -  Playing a SoundCloud file in IOS app
+
+7 .http://stackoverflow.com/questions/23676831/stream-audio-with-avplayer  -  Stream  Audio with AVPlayer  ------------- Imp
+
+8. http://bazookabyte.me/2014/05/01/quick-soundcloud-streams-with-avplayer/ - Quick SoundCloud Streams With AVPlayer ----- check
+
+9. http://stackoverflow.com/questions/14086762/ios-soundcloud-stream-from-other-users    - soundCloud API ******
+
+/// -------------------------//
+
+  Showing Indicator
+  
+    1.  http://stackoverflow.com/questions/24114271/how-to-display-activity-indicator-in-song-loading-time-in-ios  -  How to display Activity Indicator in song loading time in iOS
+    
+2. http://stackoverflow.com/questions/22979376/how-to-display-loading-indicator-in-avaudioplayer-if-user-clicks-the-play-button  - how to display loading indicator in AVAudioPlayer if user clicks the play button
+
+3. http://stackoverflow.com/questions/28579779/how-to-show-or-hide-activity-indicator-in-song-loading-time-in-ios/28580482#28580482  - How to show or hide activity indicator in song loading time in ios
+
+4. http://stackoverflow.com/questions/16206893/adding-activity-indicator-while-avplayer-gets-ready-to-play-music  -   Adding activity indicator while AVplayer gets ready to play music  -------- imp ****
+
+5.  http://webcache.googleusercontent.com/search?q=cache:http://qaoverflow.com/question/how-to-show-or-hide-activity-indicator-in-song-loading-time-in-ios/   -  check
+
+
+6. http://stackoverflow.com/questions/30300435/what-is-the-proper-way-to-display-a-loading-indicator-while-getting-data-from-a  -  What is the proper way to display a loading indicator while getting data from a URL  - check
+
+7. http://ebanshi.cc/questions/4816064/how-to-display-activity-indicator-in-song-loading-time-in-ios  -  How to display Activity Indicator in song loading time in iOS  - imp  ****
+
+/// ------------------------//
+
+  SND GTHB
+  
+    1. <https://github.com/soundcloud/CocoaSoundCloudAPI - soundcloud/CocoaSoundCloudAPI>
+    
+2. https://github.com/NextFaze/soundcloud-player-webview -   NextFaze/soundcloud-player-webview
+
+3. https://github.com/soundcloud/soundcloud-custom-player  - soundcloud/soundcloud-custom-player
+
+
+
